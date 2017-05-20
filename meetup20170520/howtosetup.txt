@@ -1,0 +1,7 @@
+<Environment Seting>
+1. Install homebrew—-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+2. Install python3——brew install python3
+3. Install pip——sudo easy_install pip
+4. Jupyter Notebook——pip install jupyter notebook
+5. matplotlib——pip install matplotlib
+
